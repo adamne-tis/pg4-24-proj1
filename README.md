@@ -6,3 +6,4 @@ let test = "abc";
 ```
 
 - [X] změna skrze git
+- [ ] dalsi
